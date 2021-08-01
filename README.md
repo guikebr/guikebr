@@ -28,4 +28,6 @@
   <a href = "mailto:guilhermesantos130997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-alves-vieira-dos-santos-5a0905149" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+   ![Snake animation](https://github.com/guikebr/guikebr/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
